@@ -1,0 +1,33 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "clientId": 1,
+            "currencyId": 1,
+            "billingAddressStreet": "Arbeidstraat 14",
+            "billingAddressZipcode": "9300",
+            "billingAddressCountry": "België",
+            "shippingAddressStreet": "Arbeidstraat 14",
+            "shippingAddressZipcode": "9300",
+            "shippingAddressCountry": "België",
+            "vatType": "B2B",
+            "status": "finished",
+            "remark": "Please deliver before 12:00",
+            "paymentPeriod": "30 days",
+            "enabled": null,
+            "createdAt": "2024-03-13T15:52:14.000+00:00",
+            "updatedAt": "2024-03-13T15:52:14.000+00:00"
+        }
+    ],
+    "meta": {
+        "total": 1,
+        "perPage": 5,
+        "currentPage": 1,
+        "lastPage": 1,
+        "firstPage": 1,
+        "firstPageUrl": "/?page=1",
+        "lastPageUrl": "/?page=1",
+        "nextPageUrl": null,
+        "previousPageUrl": null
+    }
+}

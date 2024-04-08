@@ -1,0 +1,46 @@
+{
+  "id": 1,
+  "name": "Paper",
+  "unitOfMeasureId": 1,
+  "categoryId": 1,
+  "productAvailability": 1,
+  "imageUrl": "https://www.rajapack.be/blog-be/wp-content/uploads/2022/04/Multifunctioneel-printpapier-RAJA_PNG.png",
+  "enabled": 1,
+  "createdAt": "2024-03-13T08:49:38.000+00:00",
+  "updatedAt": "2024-03-13T08:49:38.000+00:00",
+  "supplier": {
+    "id": 1,
+    "firstname": "John",
+    "lastname": "Doe"
+  },
+  "category": {
+    "id": 1,
+    "name": "Office Supplies"
+  },
+  "productPrice": [
+    {
+      "id": 1,
+      "productId": 1,
+      "currencyId": 1,
+      "price": " 15.99",
+      "unitOfMeasureId": 1,
+      "quantity": 10,
+      "enabled": 1,
+      "createdAt": "2024-03-13T08:49:38.000+00:00",
+      "updatedAt": "2024-03-13T08:49:38.000+00:00"
+    }
+  ],
+  "productDescription": [
+    {
+      "id": 1,
+      "productId": 1,
+      "languageId": 2,
+      "listerDescription": "",
+      "shortDescription": "High-quality printing paper",
+      "longDescription": "High-quality printing paper for daily office and printing use.",
+      "enabled": 1,
+      "createdAt": "2024-03-13T08:49:38.000+00:00",
+      "updatedAt": "2024-03-13T08:49:38.000+00:00"
+    }
+  ]
+}
